@@ -134,15 +134,6 @@ An intelligent grievance management platform featuring:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Bhavyareddy-15)
 
-<!-- Add your LinkedIn -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL) -->
-
-<!-- Add your Portfolio -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_PORTFOLIO_URL) -->
-
----
-
----
 
 ## 🌐 Connect with Me
 
