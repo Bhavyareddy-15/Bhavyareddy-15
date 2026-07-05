@@ -142,6 +142,32 @@ An intelligent grievance management platform featuring:
 
 ---
 
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/Bhavyareddy-15" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your.email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+💬 Let's connect, collaborate, and build impactful AI solutions together!
+</p>
+
+---
+
 ## 💡 Quote
 
 > "The best way to predict the future is to build it."
