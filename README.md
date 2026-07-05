@@ -108,14 +108,6 @@ An intelligent grievance management platform featuring:
 
 ---
 
-### ♻ Smart Waste Management System
-- Waste Prediction
-- Route Optimization
-- Analytics Dashboard
-- ML Models
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Bhavyareddy-15&show_icons=true&theme=tokyonight)
